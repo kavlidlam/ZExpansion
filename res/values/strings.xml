@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZExpansion</string>
+    <string name="GL1Activity">GL1Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">Send</string>
+    <string name="formula_display">(input variable)*framecount=zoomz</string>
+    
+
+</resources>
